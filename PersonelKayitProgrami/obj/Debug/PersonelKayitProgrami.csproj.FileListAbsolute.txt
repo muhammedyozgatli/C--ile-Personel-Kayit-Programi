@@ -1,0 +1,14 @@
+C:\Users\AsusTuf\Desktop\FormUygulamalari\PersonelKayitProgrami\PersonelKayitProgrami\bin\Debug\PersonelKayitProgrami.exe.config
+C:\Users\AsusTuf\Desktop\FormUygulamalari\PersonelKayitProgrami\PersonelKayitProgrami\bin\Debug\PersonelKayitProgrami.exe
+C:\Users\AsusTuf\Desktop\FormUygulamalari\PersonelKayitProgrami\PersonelKayitProgrami\bin\Debug\PersonelKayitProgrami.pdb
+C:\Users\AsusTuf\Desktop\FormUygulamalari\PersonelKayitProgrami\PersonelKayitProgrami\obj\Debug\PersonelKayitProgrami.csproj.AssemblyReference.cache
+C:\Users\AsusTuf\Desktop\FormUygulamalari\PersonelKayitProgrami\PersonelKayitProgrami\obj\Debug\PersonelKayitProgrami.csproj.SuggestedBindingRedirects.cache
+C:\Users\AsusTuf\Desktop\FormUygulamalari\PersonelKayitProgrami\PersonelKayitProgrami\obj\Debug\PersonelKayitProgrami.Properties.Resources.resources
+C:\Users\AsusTuf\Desktop\FormUygulamalari\PersonelKayitProgrami\PersonelKayitProgrami\obj\Debug\PersonelKayitProgrami.csproj.GenerateResource.cache
+C:\Users\AsusTuf\Desktop\FormUygulamalari\PersonelKayitProgrami\PersonelKayitProgrami\obj\Debug\PersonelKayitProgrami.csproj.CoreCompileInputs.cache
+C:\Users\AsusTuf\Desktop\FormUygulamalari\PersonelKayitProgrami\PersonelKayitProgrami\obj\Debug\PersonelKayitProgrami.exe
+C:\Users\AsusTuf\Desktop\FormUygulamalari\PersonelKayitProgrami\PersonelKayitProgrami\obj\Debug\PersonelKayitProgrami.pdb
+C:\Users\AsusTuf\Desktop\FormUygulamalari\PersonelKayitProgrami\PersonelKayitProgrami\obj\Debug\PersonelKayitProgrami.FrmGrafikler.resources
+C:\Users\AsusTuf\Desktop\FormUygulamalari\PersonelKayitProgrami\PersonelKayitProgrami\obj\Debug\PersonelKayitProgrami.FrmIstatistik.resources
+C:\Users\AsusTuf\Desktop\FormUygulamalari\PersonelKayitProgrami\PersonelKayitProgrami\obj\Debug\PersonelKayitProgrami.FrmGiris2.resources
+C:\Users\AsusTuf\Desktop\FormUygulamalari\PersonelKayitProgrami\PersonelKayitProgrami\obj\Debug\PersonelKayitProgrami.FrmAnaForm.resources
